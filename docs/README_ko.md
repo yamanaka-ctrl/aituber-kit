@@ -5,6 +5,14 @@
 <p align="center">
    <a href="https://github.com/tegnike/aituber-kit"><img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/tegnike/aituber-kit"></a>
    <a href="https://github.com/tegnike/aituber-kit"><img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/tegnike/aituber-kit"></a>
+   <img alt="GitHub Tag" src="https://img.shields.io/github/v/tag/tegnike/aituber-kit?sort=semver&color=orange">
+   <a href="https://github.com/tegnike/aituber-kit/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/tegnike/aituber-kit"></a>
+</p>
+<p align="center">
+   <a href="https://github.com/tegnike/aituber-kit/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/tegnike/aituber-kit"></a>
+   <a href="https://github.com/tegnike/aituber-kit/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/tegnike/aituber-kit"></a>
+   <a href="https://github.com/tegnike/aituber-kit/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/tegnike/aituber-kit"></a>
+   <a href="https://github.com/tegnike/aituber-kit/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/tegnike/aituber-kit"></a>
 </p>
 <p align="center">
    <a href="https://x.com/tegnike"><img alt="X (Twitter)" src="https://img.shields.io/badge/X-tegnike-1DA1F2?logo=x&style=flat&logoColor=white"/></a>
@@ -29,6 +37,14 @@
 아래 기사에 자세한 사용 방법을 작성했습니다.
 
 [![오늘부터 당신도 AITuber 개발자｜니케짱](https://github.com/tegnike/aituber-kit/assets/35606144/a958f505-72f9-4665-ab6c-b57b692bb166)](https://note.com/nike_cha_n/n/ne98acb25e00f)
+
+## 개발 환경
+
+이 프로젝트는 다음과 같은 환경에서 개발되었습니다:
+
+- Node.js: ^20.0.0
+- npm: 10.8.1
+
 
 ## 공통 사전 준비
 
@@ -195,6 +211,15 @@ npm run dev
   </a>
   <a href="https://github.com/bunkaich" title="bunkaich">
     <img src="https://github.com/bunkaich.png" width="40" height="40" alt="bunkaich">
+  </a>
+  <a href="https://github.com/seiki-aliveland" title="seiki-aliveland">
+    <img src="https://github.com/seiki-aliveland.png" width="40" height="40" alt="seiki-aliveland">
+  </a>
+  <a href="https://github.com/rossy8417" title="rossy8417">
+    <img src="https://github.com/rossy8417.png" width="40" height="40" alt="rossy8417">
+  </a>
+  <a href="https://github.com/gijigae" title="gijigae">
+    <img src="https://github.com/gijigae.png" width="40" height="40" alt="gijigae">
   </a>
 </p>
 
