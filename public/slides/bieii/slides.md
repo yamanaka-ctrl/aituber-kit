@@ -5,20 +5,20 @@ paginate: true
 
 <!-- _class: title -->
 
-![bg](/slides/test/images/a.png)
+![bg](/slides/biei/images/a.png)
 
 ---
 
-![bg](/slides/test/images/b.png)
+![bg](/slides/biei/images/b.png)
 
 ---
 
-![bg](/slides/test/images/c.png)
+![bg](/slides/biei/images/c.png)
 
 ---
 
-![bg](/slides/test/images/d.png)
+![bg](/slides/biei/images/d.png)
 
 ---
 
-![bg](/slides/test/images/e.png)
+![bg](/slides/biei/images/e.png)
