@@ -27,6 +27,6 @@ paginate: true
 
 ![bg](/slides/ocha/images/FF.png)
 
-—-
+---
 
 ![bg](/slides/ocha/images/GG2.png)
