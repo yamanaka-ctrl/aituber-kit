@@ -17,7 +17,7 @@ paginate: true
 
 ---
 
-![bg](/slides/ochaimages/DD.png)
+![bg](/slides/ocha/images/DD.png)
 
 ---
 
