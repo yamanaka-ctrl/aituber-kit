@@ -29,4 +29,4 @@ paginate: true
 
 —-
 
-![bg](/slides/ocha/images/GG.png)
+![bg](/slides/ocha/images/GG2.png)
